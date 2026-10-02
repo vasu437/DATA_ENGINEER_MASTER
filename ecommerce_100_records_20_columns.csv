@@ -1,0 +1,101 @@
+order_id,customer_id,city,state,region,product_id,product_name,category,quantity,unit_price,discount_pct,amount,order_status,payment_method,sales_channel,promo_code,order_date,delivery_date,return_flag,customer_rating
+O1001,C111,Hyderabad,Telangana,South,P102,Smartphone,Electronics,1.0,28000,15,23800.0,Delivered,Credit Card,Website,WELCOME15,2026-07-18,2026-07-20,No,3.0
+O1002,C110,Ahmedabad,Gujarat,West,P107,Desk,Furniture,1.0,12000,0,12000.0,Delivered,Net Banking,Marketplace,NONE,2026-07-06,2026-07-08,No,3.0
+O1003,C109,Jaipur,Rajasthan,North,P104,Monitor,Electronics,4.0,18000,0,72000.0,Cancelled,UPI,Mobile App,NONE,2026-07-29,,No,
+O1004,C112,Bengaluru,Karnataka,South,P107,Desk,Furniture,3.0,12000,0,36000.0,Delivered,UPI,Website,NONE,2026-07-10,2026-07-13,No,5.0
+O1005,C102,Bengaluru,Karnataka,South,P106,Office Chair,Furniture,3.0,8500,10,22950.0,Delivered,COD,Marketplace,NONE,2026-07-17,2026-07-23,No,5.0
+O1006,C102,Bengaluru,Karnataka,South,P109,Printer,Electronics,3.0,14000,15,35700.0,Delivered,Credit Card,Website,NONE,2026-08-09,2026-08-14,No,4.0
+O1007,C113,Chennai,Tamil Nadu,South,P105,Keyboard,Electronics,1.0,1800,0,1800.0,Delivered,Debit Card,Mobile App,NONE,2026-08-25,2026-08-29,No,4.0
+O1008,C103,Chennai,Tamil Nadu,South,P106,Office Chair,Furniture,3.0,8500,0,25500.0,Delivered,,Marketplace,NONE,2026-08-12,2026-08-18,No,4.0
+O1009,C109,Jaipur,Rajasthan,North,P104,Monitor,Electronics,2.0,18000,5,34200.0,Delivered,Net Banking,Mobile App,FESTIVE20,2026-07-25,2026-07-31,No,3.0
+O1010,C104,Mumbai,Maharashtra,West,P101,Laptop,Electronics,3.0,55000,5,156750.0,Delivered,Net Banking,Website,SAVE10,2026-07-18,2026-07-20,No,5.0
+O1011,C107,Kolkata,West Bengal,East,P108,Backpack,Accessories,2.0,2200,0,4400.0,Delivered,Net Banking,Marketplace,NONE,2026-07-09,2026-07-15,No,4.0
+O1012,C112,Bengaluru,Karnataka,South,P110,Coffee Maker,Appliances,4.0,6500,10,23400.0,Delivered,Credit Card,Marketplace,NEWUSER,2026-07-26,2026-07-28,No,3.0
+O1013,C113,Chennai,Tamil Nadu,South,P101,Laptop,Electronics,1.0,55000,0,55000.0,Delivered,COD,Marketplace,NONE,2026-08-10,2026-08-16,No,3.0
+O1014,C107,Kolkata,West Bengal,East,P107,Desk,Furniture,4.0,12000,10,43200.0,Cancelled,UPI,Marketplace,FESTIVE20,2026-07-17,,No,
+O1015,C113,Chennai,Tamil Nadu,South,P106,Office Chair,Furniture,1.0,8500,0,8500.0,Delivered,UPI,Website,NONE,2026-07-28,2026-08-01,No,5.0
+O1016,C113,Chennai,Tamil Nadu,South,P103,Headphones,Electronics,1.0,2500,15,2125.0,Returned,Net Banking,Mobile App,SAVE10,2026-07-20,2026-07-25,Yes,
+O1017,C106,Delhi,Delhi,North,P103,Headphones,Electronics,1.0,2500,10,2250.0,Shipped,UPI,Website,FESTIVE20,2026-07-21,,No,
+O1018,C104,Mumbai,Maharashtra,West,P101,Laptop,Electronics,2.0,55000,10,99000.0,Delivered,COD,Website,WELCOME15,2026-08-30,2026-08-31,No,4.0
+O1019,C103,Chennai,Tamil Nadu,South,P108,Backpack,Accessories,2.0,2200,0,4400.0,Cancelled,Credit Card,Marketplace,NONE,2026-08-03,,No,
+O1020,C113,Chennai,Tamil Nadu,South,P104,Monitor,Electronics,3.0,18000,5,51300.0,Returned,COD,Marketplace,NEWUSER,2026-08-12,2026-08-15,Yes,
+O1021,C102,Bengaluru,Karnataka,South,P104,Monitor,Electronics,2.0,18000,0,36000.0,Delivered,Net Banking,Mobile App,NONE,2026-07-22,2026-07-27,No,5.0
+O1022,C104,Mumbai,Maharashtra,West,P101,Laptop,Electronics,1.0,55000,15,46750.0,Delivered,UPI,Website,FESTIVE20,2026-08-10,2026-08-12,No,3.0
+O1023,C109,Jaipur,Rajasthan,North,P104,Monitor,Electronics,,18000,15,45900.0,Delivered,Credit Card,Marketplace,WELCOME15,2026-08-01,2026-08-06,No,5.0
+O1024,C104,Mumbai,Maharashtra,West,P108,Backpack,Accessories,4.0,2200,0,8800.0,Delivered,COD,Website,NONE,2026-07-07,2026-07-13,No,5.0
+O1025,C107,Kolkata,West Bengal,East,P108,Backpack,Accessories,1.0,2200,15,1870.0,Returned,UPI,Mobile App,FESTIVE20,2026-08-11,2026-08-12,Yes,
+O1026,C113,Chennai,Tamil Nadu,South,P102,Smartphone,Electronics,2.0,28000,0,56000.0,Cancelled,Credit Card,Mobile App,NONE,2026-07-13,,No,
+O1027,C103,Chennai,Tamil Nadu,South,P105,Keyboard,Electronics,4.0,1800,0,7200.0,Delivered,Net Banking,Website,NONE,2026-08-25,2026-08-29,No,3.0
+O1028,C111,Hyderabad,Telangana,South,P109,Printer,Electronics,1.0,14000,0,14000.0,Delivered,COD,Mobile App,NONE,2026-08-29,2026-08-31,No,5.0
+O1029,C104,Mumbai,Maharashtra,West,P107,Desk,Furniture,1.0,12000,0,12000.0,Delivered,Debit Card,Mobile App,NONE,2026-07-25,2026-07-29,No,4.0
+O1030,C107,Kolkata,West Bengal,East,P109,Printer,Electronics,4.0,14000,0,56000.0,Delivered,UPI,Marketplace,NONE,2026-07-13,2026-07-15,No,5.0
+O1031,C101,Hyderabad,Telangana,South,P106,Office Chair,Furniture,1.0,8500,0,8500.0,Shipped,Net Banking,Mobile App,NONE,2026-08-07,,No,
+O1032,C101,Hyderabad,Telangana,South,P109,Printer,Electronics,1.0,14000,0,14000.0,Cancelled,Credit Card,Mobile App,NONE,2026-07-05,,No,
+O1033,C102,Bengaluru,Karnataka,South,P110,Coffee Maker,Appliances,2.0,6500,10,11700.0,Delivered,UPI,Mobile App,WELCOME15,2026-08-08,2026-08-13,No,5.0
+O1034,C109,Jaipur,Rajasthan,North,P106,Office Chair,Furniture,3.0,8500,0,25500.0,Returned,Credit Card,Website,NONE,2026-08-12,2026-08-15,Yes,
+O1035,C107,Kolkata,West Bengal,East,P103,Headphones,Electronics,3.0,2500,5,7125.0,Delivered,COD,Marketplace,WELCOME15,2026-07-21,2026-07-22,No,3.0
+O1036,C102,Bengaluru,Karnataka,South,P109,Printer,Electronics,2.0,14000,10,25200.0,Delivered,UPI,Mobile App,FESTIVE20,2026-07-17,2026-07-20,No,4.0
+O1037,C103,Chennai,Tamil Nadu,South,P108,Backpack,Accessories,3.0,2200,10,5940.0,Returned,UPI,Marketplace,FESTIVE20,2026-08-21,2026-08-26,Yes,
+O1038,C115,Pune,Maharashtra,West,P102,Smartphone,Electronics,2.0,28000,0,56000.0,Delivered,Net Banking,Mobile App,NONE,2026-07-08,2026-07-14,No,4.0
+O1039,C105,Pune,Maharashtra,West,P110,Coffee Maker,Appliances,2.0,6500,15,11050.0,Delivered,Debit Card,Marketplace,NEWUSER,2026-07-22,2026-07-28,No,4.0
+O1040,C115,Pune,Maharashtra,West,P101,Laptop,Electronics,1.0,55000,15,46750.0,Delivered,UPI,Website,SAVE10,2026-07-28,2026-07-29,No,4.0
+O1041,C103,Chennai,Tamil Nadu,South,P108,Backpack,Accessories,4.0,2200,10,7920.0,Delivered,Credit Card,Marketplace,NONE,2026-07-01,2026-07-02,No,4.0
+O1042,C110,Ahmedabad,Gujarat,West,P109,Printer,Electronics,2.0,14000,5,,Delivered,Debit Card,Website,FESTIVE20,2026-07-09,2026-07-12,No,4.0
+O1043,C111,Hyderabad,Telangana,South,P104,Monitor,Electronics,1.0,18000,0,18000.0,Cancelled,Net Banking,Mobile App,NONE,2026-08-19,,No,
+O1044,C115,Pune,Maharashtra,West,P104,Monitor,Electronics,2.0,18000,0,36000.0,Shipped,Credit Card,Website,NONE,2026-08-26,,No,
+O1045,C113,Chennai,Tamil Nadu,South,P107,Desk,Furniture,2.0,12000,0,24000.0,Returned,COD,Website,NONE,2026-07-11,2026-07-12,Yes,
+O1046,C114,Mumbai,Maharashtra,West,P108,Backpack,Accessories,2.0,2200,0,4400.0,Shipped,Debit Card,Mobile App,NONE,2026-08-22,,No,
+O1047,C104,Mumbai,Maharashtra,West,P101,Laptop,Electronics,2.0,55000,5,104500.0,Delivered,Debit Card,Website,WELCOME15,2026-07-22,2026-07-23,No,5.0
+O1048,C111,Hyderabad,Telangana,South,P109,Printer,Electronics,3.0,14000,0,42000.0,Delivered,Net Banking,Website,NONE,2026-07-08,2026-07-10,No,3.0
+O1049,C102,Bengaluru,Karnataka,South,P110,Coffee Maker,Appliances,4.0,6500,0,26000.0,Delivered,Net Banking,Marketplace,NONE,2026-08-16,2026-08-20,No,3.0
+O1050,C107,Kolkata,West Bengal,East,P110,Coffee Maker,Appliances,2.0,6500,0,13000.0,Returned,UPI,Marketplace,NONE,2026-07-03,2026-07-07,Yes,
+O1051,C115,Pune,Maharashtra,West,P109,Printer,Electronics,2.0,14000,0,28000.0,Delivered,Debit Card,Marketplace,NONE,2026-07-28,2026-08-03,No,4.0
+O1052,C111,Hyderabad,Telangana,South,P102,Smartphone,Electronics,3.0,28000,10,75600.0,Returned,Debit Card,Mobile App,FESTIVE20,2026-07-20,2026-07-24,Yes,
+O1053,C109,Jaipur,Rajasthan,North,P103,Headphones,Electronics,2.0,2500,5,4750.0,Shipped,Credit Card,Marketplace,WELCOME15,2026-08-12,,No,
+O1054,C105,Pune,Maharashtra,West,P107,Desk,Furniture,1.0,12000,0,12000.0,Delivered,Net Banking,Marketplace,NONE,2026-07-19,2026-07-23,No,4.0
+O1055,C108,Kochi,Kerala,South,P108,Backpack,Accessories,4.0,2200,15,7480.0,Cancelled,Credit Card,Website,FESTIVE20,2026-07-14,,No,
+O1056,C109,Jaipur,Rajasthan,North,P110,Coffee Maker,Appliances,3.0,6500,0,19500.0,Delivered,Debit Card,Mobile App,NONE,2026-08-22,2026-08-28,No,4.0
+O1057,C103,Chennai,Tamil Nadu,South,P101,Laptop,Electronics,1.0,55000,0,55000.0,Cancelled,COD,Mobile App,NONE,2026-07-31,,No,
+O1058,C115,Pune,Maharashtra,West,P110,Coffee Maker,Appliances,2.0,6500,15,11050.0,Shipped,COD,Mobile App,SAVE10,2026-08-14,,No,
+O1059,C111,Hyderabad,Telangana,South,P101,Laptop,Electronics,1.0,55000,5,52250.0,Delivered,Net Banking,Mobile App,NONE,2026-07-15,2026-07-21,No,5.0
+O1060,C104,Mumbai,Maharashtra,West,P102,Smartphone,Electronics,4.0,28000,0,112000.0,Shipped,Net Banking,Marketplace,NONE,2026-08-21,,No,
+O1061,C110,Ahmedabad,Gujarat,West,P106,Office Chair,Furniture,4.0,8500,10,30600.0,Returned,COD,Marketplace,NEWUSER,2026-08-22,2026-08-27,Yes,
+O1062,C115,Pune,Maharashtra,West,P103,Headphones,Electronics,4.0,2500,5,9500.0,Delivered,Debit Card,Marketplace,NEWUSER,2026-07-17,2026-07-23,No,4.0
+O1063,C105,Pune,Maharashtra,West,P108,Backpack,Accessories,1.0,2200,15,1870.0,Delivered,Debit Card,Website,WELCOME15,2026-07-19,2026-07-22,No,3.0
+O1064,C103,Chennai,Tamil Nadu,South,P103,Headphones,Electronics,2.0,2500,5,4750.0,Delivered,Credit Card,Website,NEWUSER,2026-08-14,2026-08-20,No,5.0
+O1065,C106,Delhi,Delhi,North,P109,Printer,Electronics,4.0,14000,5,53200.0,Delivered,COD,Marketplace,NONE,2026-07-04,2026-07-08,No,5.0
+O1066,C107,Kolkata,West Bengal,East,P108,Backpack,Accessories,1.0,2200,0,2200.0,Shipped,Net Banking,Marketplace,NONE,2026-07-20,,No,
+O1067,C113,Chennai,Tamil Nadu,South,P110,Coffee Maker,Appliances,2.0,6500,5,12350.0,Delivered,COD,Website,NEWUSER,2026-07-15,2026-07-19,No,4.0
+O1068,C111,Hyderabad,Telangana,South,P107,Desk,Furniture,2.0,12000,5,22800.0,Delivered,Net Banking,Website,NEWUSER,2026-08-28,2026-09-02,No,
+O1069,C110,Ahmedabad,Gujarat,West,P101,Laptop,Electronics,1.0,55000,15,46750.0,Delivered,Credit Card,Website,FESTIVE20,2026-07-28,2026-08-01,No,5.0
+O1070,C106,Delhi,Delhi,North,P104,Monitor,Electronics,4.0,18000,0,72000.0,Shipped,COD,Website,NONE,2026-07-22,,No,
+O1071,C114,Mumbai,Maharashtra,West,P102,Smartphone,Electronics,4.0,28000,0,112000.0,Cancelled,Debit Card,Mobile App,NONE,2026-08-17,,No,
+O1072,C111,Hyderabad,Telangana,South,P102,Smartphone,Electronics,1.0,28000,0,28000.0,Delivered,UPI,Marketplace,NONE,2026-08-30,2026-09-01,No,4.0
+O1073,C104,Mumbai,Maharashtra,West,P103,Headphones,Electronics,4.0,2500,15,8500.0,Cancelled,COD,Website,FESTIVE20,2026-07-08,,No,
+O1074,C103,Chennai,Tamil Nadu,South,P110,Coffee Maker,Appliances,1.0,6500,0,6500.0,Delivered,UPI,Website,NONE,2026-07-20,2026-07-25,No,5.0
+O1075,C111,Hyderabad,Telangana,South,P107,Desk,Furniture,4.0,12000,15,40800.0,Delivered,Credit Card,Website,FESTIVE20,2026-07-13,2026-07-18,No,5.0
+O1076,C113,Chennai,Tamil Nadu,South,P102,Smartphone,Electronics,1.0,28000,0,28000.0,Shipped,Debit Card,Website,NONE,2026-08-04,,No,
+O1077,C109,Jaipur,Rajasthan,North,P106,Office Chair,Furniture,1.0,8500,5,8075.0,Shipped,COD,Website,NEWUSER,2026-08-22,,No,
+O1078,C112,Bengaluru,Karnataka,South,P103,Headphones,Electronics,4.0,2500,0,10000.0,Cancelled,Debit Card,Marketplace,NONE,2026-08-16,,No,
+O1079,C113,Chennai,Tamil Nadu,South,P109,Printer,Electronics,4.0,14000,5,53200.0,Returned,Debit Card,Website,SAVE10,2026-07-28,2026-08-02,Yes,
+O1080,C114,Mumbai,Maharashtra,West,P102,Smartphone,Electronics,3.0,28000,5,79800.0,Shipped,Net Banking,Mobile App,FESTIVE20,2026-07-16,,No,
+O1081,C101,Hyderabad,Telangana,South,P108,Backpack,Accessories,3.0,2200,0,6600.0,Delivered,Debit Card,Website,NONE,2026-08-01,2026-08-04,No,4.0
+O1082,C115,Pune,Maharashtra,West,P110,Coffee Maker,Appliances,3.0,6500,10,17550.0,Cancelled,UPI,Mobile App,NEWUSER,2026-07-01,,No,
+O1083,C108,Kochi,Kerala,South,P109,Printer,Electronics,2.0,14000,15,23800.0,Returned,COD,Mobile App,NONE,2026-07-31,2026-08-06,Yes,
+O1084,C102,Bengaluru,Karnataka,South,P105,Keyboard,Electronics,2.0,1800,5,3420.0,Delivered,Net Banking,Website,NEWUSER,2026-08-14,2026-08-17,No,5.0
+O1085,C109,Jaipur,Rajasthan,North,P106,Office Chair,Furniture,4.0,8500,15,28900.0,Delivered,COD,Website,FESTIVE20,2026-08-05,2026-08-08,No,4.0
+O1086,C104,Mumbai,Maharashtra,West,P102,Smartphone,Electronics,2.0,28000,0,56000.0,Returned,Credit Card,Mobile App,NONE,2026-07-08,2026-07-13,Yes,
+O1087,C104,Mumbai,Maharashtra,West,P108,Backpack,Accessories,3.0,2200,15,5610.0,Cancelled,Debit Card,Website,SAVE10,2026-08-07,,No,
+O1088,C105,Pune,Maharashtra,West,P104,Monitor,Electronics,3.0,18000,0,54000.0,Delivered,Net Banking,Mobile App,NONE,2026-07-20,2026-07-26,No,4.0
+O1089,C101,Hyderabad,Telangana,South,P101,Laptop,Electronics,3.0,55000,15,140250.0,Delivered,COD,Website,NONE,2026-08-30,2026-09-05,No,5.0
+O1090,C105,Pune,Maharashtra,West,P108,Backpack,Accessories,4.0,2200,5,8360.0,Delivered,Debit Card,Mobile App,NONE,2026-07-22,2026-07-23,No,3.0
+O1091,C107,Kolkata,West Bengal,East,P108,Backpack,Accessories,1.0,2200,10,1980.0,Returned,Credit Card,Mobile App,WELCOME15,2026-08-10,2026-08-11,Yes,
+O1092,C105,Pune,Maharashtra,West,P102,Smartphone,Electronics,2.0,28000,0,56000.0,Shipped,Net Banking,Marketplace,NONE,2026-08-05,,No,
+O1093,C104,Mumbai,Maharashtra,West,P109,Printer,Electronics,4.0,14000,5,53200.0,Shipped,Net Banking,Mobile App,FESTIVE20,2026-08-28,,No,
+O1094,C110,Ahmedabad,Gujarat,West,P110,Coffee Maker,Appliances,1.0,6500,10,5850.0,Delivered,Credit Card,Website,NONE,2026-08-17,2026-08-19,No,4.0
+O1095,C104,Mumbai,Maharashtra,West,P103,Headphones,Electronics,1.0,2500,0,2500.0,Shipped,Net Banking,Mobile App,NONE,2026-07-01,,No,
+O1096,C105,Pune,Maharashtra,West,P101,Laptop,Electronics,2.0,55000,0,110000.0,Delivered,COD,Website,NONE,2026-08-15,2026-08-21,No,4.0
+O1097,C115,Pune,Maharashtra,West,P105,Keyboard,Electronics,2.0,1800,5,3420.0,Cancelled,Credit Card,Website,SAVE10,2026-07-08,,No,
+O1098,C102,Bengaluru,Karnataka,South,P101,Laptop,Electronics,2.0,55000,0,110000.0,Returned,Debit Card,Mobile App,NONE,2026-08-08,2026-08-13,Yes,
+O1099,C102,Bengaluru,Karnataka,South,P108,Backpack,Accessories,3.0,2200,15,5610.0,Delivered,Net Banking,Mobile App,NEWUSER,2026-07-26,2026-07-31,No,3.0
+O1100,C110,Ahmedabad,Gujarat,West,P101,Laptop,Electronics,4.0,55000,15,187000.0,Cancelled,UPI,Website,SAVE10,2026-07-21,,No,
